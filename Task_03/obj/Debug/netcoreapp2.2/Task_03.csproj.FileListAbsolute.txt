@@ -1,0 +1,11 @@
+/Users/aleksandrkolesov/Downloads/Tasks-Developers-Junior-master/Task_03/obj/Debug/netcoreapp2.2/Task_03.csprojAssemblyReference.cache
+/Users/aleksandrkolesov/Downloads/Tasks-Developers-Junior-master/Task_03/obj/Debug/netcoreapp2.2/Task_03.csproj.CoreCompileInputs.cache
+/Users/aleksandrkolesov/Downloads/Tasks-Developers-Junior-master/Task_03/obj/Debug/netcoreapp2.2/Task_03.AssemblyInfoInputs.cache
+/Users/aleksandrkolesov/Downloads/Tasks-Developers-Junior-master/Task_03/obj/Debug/netcoreapp2.2/Task_03.AssemblyInfo.cs
+/Users/aleksandrkolesov/Downloads/Tasks-Developers-Junior-master/Task_03/bin/Debug/netcoreapp2.2/Task_03.deps.json
+/Users/aleksandrkolesov/Downloads/Tasks-Developers-Junior-master/Task_03/bin/Debug/netcoreapp2.2/Task_03.runtimeconfig.json
+/Users/aleksandrkolesov/Downloads/Tasks-Developers-Junior-master/Task_03/bin/Debug/netcoreapp2.2/Task_03.runtimeconfig.dev.json
+/Users/aleksandrkolesov/Downloads/Tasks-Developers-Junior-master/Task_03/bin/Debug/netcoreapp2.2/Task_03.dll
+/Users/aleksandrkolesov/Downloads/Tasks-Developers-Junior-master/Task_03/bin/Debug/netcoreapp2.2/Task_03.pdb
+/Users/aleksandrkolesov/Downloads/Tasks-Developers-Junior-master/Task_03/obj/Debug/netcoreapp2.2/Task_03.dll
+/Users/aleksandrkolesov/Downloads/Tasks-Developers-Junior-master/Task_03/obj/Debug/netcoreapp2.2/Task_03.pdb
